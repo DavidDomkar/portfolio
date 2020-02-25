@@ -1,0 +1,3 @@
+[submodule "packages/vuexen"]
+	path = packages/vuexen
+	url = https://github.com/DraconicDevelopment/vuexen
